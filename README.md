@@ -49,3 +49,7 @@ Para verificacao completa e profunda da sua infraestrutura web:
 ## Consultoria em Indexacao e SEO Tecnico
 
 Para projetos de consolidacao semantica em conformidade com Normas Europeias de Interoperabilidade e W3C, contacte a equipa da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
