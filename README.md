@@ -1,14 +1,13 @@
 # Verificador de URL Canonico e Consolidacao de Paginas
 
 [![Verificador URL Canonico](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-url-canonica/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Portugal-00C853.svg)](https://ag.tavardt.com/pt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Inspecao tecnica de etiquetas canonicas, deteccao de conflitos de protocolo e conformidade com normas W3C.
 
-Desenvolvido e mantido pela divisao de arquitetura de indexacao da **[TAVARDT Portugal](https://ag.tavardt.com/pt/)**.
+Desenvolvido e mantido pela divisao de arquitetura de indexacao da **TAVARDT Portugal**.
 
----
+***
 
 ## Capacidades de Auditoria de URL Canonico
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de arquitetura de indexacao da **[TAVARDT Po
 * **Inspecao de Codigo de Resposta**: Verifica se o destino canonico responde com HTTP 200 OK, evitando ligacoes para erros 404 ou cadeias de redirecionamento.
 * **Indice de Consolidacao Semantica**: Metrica de 0 a 100 com recomendacoes tecnicas priorizadas.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python canonical_validator.py https://empresa.pt
 Para inspecao com saida estruturada JSON:
 
 ```bash
-python canonical_validator.py https://empresa.pt --json
+python canonical_validator.py https://empresa.pt -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para verificacao completa e profunda da sua infraestrutura web:
 
-* **[Verificador de URL Canonica Oficial](https://tools.tavardt.com/pt/verificador-url-canonica/)**
+* **Verificador de URL Canonica Oficial**
 * **[Portal Corporativo TAVARDT Portugal](https://ag.tavardt.com/pt/)**
 
----
+***
 
 ## Consultoria em Indexacao e SEO Tecnico
 
-Para projetos de consolidacao semantica em conformidade com Normas Europeias de Interoperabilidade e W3C, contacte a equipa da **[TAVARDT Portugal](https://ag.tavardt.com/pt/contato/)**.
+Para projetos de consolidacao semantica em conformidade com Normas Europeias de Interoperabilidade e W3C, contacte a equipa da **TAVARDT Portugal**.
