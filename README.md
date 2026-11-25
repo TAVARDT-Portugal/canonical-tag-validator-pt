@@ -6,8 +6,6 @@
 
 Inspeção tecnica de etiquetas canonicas, deteccao de conflitos de protocolo e conformidade com normas W3C.
 
-Desenvolvido e mantido pela divisao de arquitetura de indexacao da **TAVARDT Portugal**.
-
 ***
 
 ## Capacidades de Auditoria de URL Canonico
@@ -38,15 +36,6 @@ python canonical_validator.py https://empresa.pt -json
 
 ***
 
-## Diagnostico Completo na Web
-
-Para verificacao completa e profunda da sua infraestrutura web:
-
-* **Verificador de URL Canonica Oficial**
-* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/pt/)**
-
-***
-
 ## Consultoria em Indexacao e SEO Tecnico
 
 Para projetos de consolidacao semantica em conformidade com Normas Europeias de Interoperabilidade e W3C, contacte a equipa da **TAVARDT Portugal**.
@@ -60,7 +49,7 @@ Para projetos de consolidacao semantica em conformidade com Normas Europeias de 
 ***
 
 ### Licença
-Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+Distribuído sob a Licença MIT.
 
 ***
 
