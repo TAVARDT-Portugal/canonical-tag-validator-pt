@@ -1,8 +1,8 @@
 # Verificador de URL Canonico e Consolidacao de Paginas
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Verificador URL Canonico](https://img.shields.io/badge/TAVARDT-Canonical-5b3cf5.svg)](https://tools.tavardt.com/pt/verificador-url-canonica/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)](https://www.python.org/)
 
 Inspeção tecnica de etiquetas canonicas, deteccao de conflitos de protocolo e conformidade com normas W3C.
 
@@ -51,14 +51,17 @@ Para verificacao completa e profunda da sua infraestrutura web:
 
 Para projetos de consolidacao semantica em conformidade com Normas Europeias de Interoperabilidade e W3C, contacte a equipa da **TAVARDT Portugal**.
 
-***
-
-© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
-
-***
-
 ## Links Úteis
 
 * **Portal Corporativo:** https://ag.tavardt.com/pt/
 * **Suíte de Diagnósticos:** https://tools.tavardt.com/pt/
 * **Contacto Técnico:** https://ag.tavardt.com/pt/contacto/
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
+
+***
+
+© 2026 TAVARDT Portugal. Todos os direitos reservados. Soberania e Defesa de Infraestrutura.
